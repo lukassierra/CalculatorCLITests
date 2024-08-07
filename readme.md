@@ -1,7 +1,7 @@
 # LoanPro Calculator CLI Automated Tests
 
 ## Description
-This folder contains automated test cases for the LoanPro Calculator CLI using Python. The tests cover basic arithmetic operations, edge cases, and error handling.
+This project contains automated test cases and their documentation for the LoanPro Calculator CLI using Python. The tests cover basic arithmetic operations, edge cases, and error handling.
 
 ## Prerequisites
 - Docker installed on your macOS environment.
